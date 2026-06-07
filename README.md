@@ -2,19 +2,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Aditya%20Patil&fontSize=40&fontColor=ffffff" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Aditya Patil</h1>
 <h3 align="center">🚀 Full Stack Developer | React & Node.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;React+Frontend+Developer;Node.js+Backend+Developer;Open+to+Internships" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Apps;React+Frontend+Developer;Node.js+Backend+Developer;Open+to+Internships" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💡 Passionate about building scalable web applications  
+- 💡 Passionate about building real-world projects  
 - ⚛️ React.js & Node.js Developer  
-- 🌱 Learning new technologies daily  
+- 🌱 Currently learning Backend & APIs  
 - 🎯 Looking for Internship Opportunities  
 - 📍 India  
 
@@ -23,15 +24,19 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+<p>
+  <img src="https://skillicons.dev/icons?i=js" />
+</p>
 
 ### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
 ### 🔧 Backend
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
 ---
 
@@ -49,11 +54,11 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aditya2206-afk/aditya2206-afk/output/github-contribution-grid-snake.svg" />
-</p>
+- 🔹 Task Management App (MERN Stack)  
+- 🔹 Portfolio Website  
+- 🔹 Weather App using API  
 
 ---
 
@@ -70,4 +75,6 @@
 
 ---
 
-⭐ From [Aditya Patil](https://github.com/aditya2206-afk)
+<p align="center">
+  ⭐ From <a href="https://github.com/aditya2206-afk">Aditya Patil</a>
+</p>
