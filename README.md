@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Aditya%20Patil&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h3 align="center">🚀 Full Stack Developer | React & Node.js Specialist</h3>
+<h3 align="center">🚀 Full Stack Developer | React & Node.js</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;React+Frontend+Developer;Node.js+Backend+Developer;Open+to+Internships" />
@@ -13,9 +13,9 @@
 ## 👨‍💻 About Me
 
 - 💡 Passionate about building scalable web applications  
-- ⚛️ Specialized in React.js & Node.js  
-- 🌱 Continuously learning new technologies  
-- 🎯 Actively looking for Internship Opportunities  
+- ⚛️ React.js & Node.js Developer  
+- 🌱 Learning new technologies daily  
+- 🎯 Looking for Internship Opportunities  
 - 📍 India  
 
 ---
@@ -38,26 +38,29 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya2206-afk&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya2206-afk&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya2206-afk&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+  
+  <img src="https://streak-stats.demolab.com?user=aditya2206-afk&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya2206-afk&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya2206-afk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/aditya2206-afk/aditya2206-afk/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aditya2206-afk/aditya2206-afk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="[https://linkedin.com/](https://www.linkedin.com/in/aditya-patil-5831052b2/)">
+  <a href="https://www.linkedin.com/in/aditya-patil-5831052b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:adityapatil3260@gmail.com">
